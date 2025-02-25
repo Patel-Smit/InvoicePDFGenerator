@@ -1,0 +1,8 @@
+python-docx
+tabulate
+docx2pdf
+configparser
+difflib
+csv
+datetime
+os

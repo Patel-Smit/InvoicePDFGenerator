@@ -1,0 +1,2 @@
+invoice_number,date_time,cx_name,cx_address,cart,total
+000000,02-24-2025 07:09 PM,Smit,"{'cx_unit': '1', 'cx_street': 'Abc Street', 'cx_city': 'Asdfghjkl', 'cx_province': 'QW', 'cx_postal': 'ZXC VBN'}","[['Virus Removal', ' 20.52', 1], ['RAM Upgrade', ' 75.25', 1], ['Dust Cleaning', ' 39.68', 1], ['Software Update', ' 37.35', 1]]",$ 198.72
